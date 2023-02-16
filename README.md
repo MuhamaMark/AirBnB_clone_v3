@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 muhama mark - [Github](https://github.com/MuhamaMark)
+Richmond Forkuo Afram
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
